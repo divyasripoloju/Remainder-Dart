@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\karthik\OneDrive\Desktop\reminder_app\build\windows\x64\CMakeFiles\21ed3d82006bc2541434e85d1d240ad7\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{CB84A0C4-BC25-39DB-9669-2C27B2C52A34}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

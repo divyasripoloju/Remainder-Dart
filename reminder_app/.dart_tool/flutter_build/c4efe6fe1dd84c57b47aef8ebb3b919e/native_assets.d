@@ -1,0 +1,1 @@
+ C:\\Users\\karthik\\OneDrive\\Desktop\\reminder_app\\.dart_tool\\flutter_build\\c4efe6fe1dd84c57b47aef8ebb3b919e\\native_assets.yaml: 

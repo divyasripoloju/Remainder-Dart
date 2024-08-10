@@ -1,0 +1,28 @@
+^C:\USERS\KARTHIK\ONEDRIVE\DESKTOP\REMINDER_APP\BUILD\WINDOWS\X64\CMAKEFILES\8F6BDD22CDBAC0AC0BFBE465D384A801\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\flutter\flutter PROJECT_DIR=C:\Users\karthik\OneDrive\Desktop\reminder_app FLUTTER_ROOT=C:\flutter\flutter FLUTTER_EPHEMERAL_DIR=C:\Users\karthik\OneDrive\Desktop\reminder_app\windows\flutter\ephemeral PROJECT_DIR=C:\Users\karthik\OneDrive\Desktop\reminder_app FLUTTER_TARGET=C:\Users\karthik\OneDrive\Desktop\reminder_app\lib\main.dart DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\Users\karthik\OneDrive\Desktop\reminder_app\.dart_tool\package_config.json C:/flutter/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\KARTHIK\ONEDRIVE\DESKTOP\REMINDER_APP\BUILD\WINDOWS\X64\CMAKEFILES\873D0626180E1162FBC404285F17E8D2\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\KARTHIK\ONEDRIVE\DESKTOP\REMINDER_APP\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/karthik/OneDrive/Desktop/reminder_app/windows -BC:/Users/karthik/OneDrive/Desktop/reminder_app/build/windows/x64 --check-stamp-file C:/Users/karthik/OneDrive/Desktop/reminder_app/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

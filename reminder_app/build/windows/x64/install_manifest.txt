@@ -1,0 +1,9 @@
+C:/Users/karthik/OneDrive/Desktop/reminder_app/build/windows/x64/runner/Debug/data/icudtl.dat
+C:/Users/karthik/OneDrive/Desktop/reminder_app/build/windows/x64/runner/Debug/flutter_windows.dll
+C:/Users/karthik/OneDrive/Desktop/reminder_app/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Users/karthik/OneDrive/Desktop/reminder_app/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/karthik/OneDrive/Desktop/reminder_app/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/karthik/OneDrive/Desktop/reminder_app/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/karthik/OneDrive/Desktop/reminder_app/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/karthik/OneDrive/Desktop/reminder_app/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/karthik/OneDrive/Desktop/reminder_app/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
